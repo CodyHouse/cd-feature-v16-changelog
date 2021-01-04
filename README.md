@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Feature v16 - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Feature v16 component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/feature-v16)
+- [Info Page](https://codyhouse.co/ds/components/info/feature-v16)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
